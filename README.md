@@ -1,4 +1,9 @@
-## Hi there 👋
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/yourusername/datphongchothue247.git
+git push -u origin main
 
 <!--
 **datphongchothue247/datphongchothue247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
